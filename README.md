@@ -1,5 +1,5 @@
 # simple-web-mapping
-workshop from ITP camp exploring leaflet and add-ons
+workshop from ITP camp mostly exploring web-mapping through Leaflet.js
 
 ## inspired by: https://github.com/karihigh/itp-camp-mapping
 
